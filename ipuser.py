@@ -1,6 +1,6 @@
 import os,ipaddress
 
-os.system('cls')
+os.system('cls')#os.system will clear the console at the start of the execution
 
 while True:
 	ip=input('Enter IP Address: ')
